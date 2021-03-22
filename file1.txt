@@ -2,3 +2,5 @@ test file 1
 
 수정1
 br1 brunch modification
+
+수 정 2  실습 대비 연습
